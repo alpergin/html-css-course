@@ -1,0 +1,43 @@
+.email-linkedin {
+  font-size: 12px;
+  color: gray;
+  font-family: Arial;
+
+  margin-top: 0px;
+  margin-bottom: 0px;
+  
+}
+.text-box {
+  font-family: Arial;
+
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 2px;
+  width: 295px;
+
+  margin-top: 4px;
+  margin-bottom: 6px;
+}
+
+.desci {
+  font-family: Arial;
+  font-size: 12px;
+  color: rgb(132, 132, 132);
+}
+
+.agree-join {
+  background-color: rgba(33, 99, 185, 0.956);
+  color: white;
+  border-radius: 18px;
+  border-style: solid;
+  border: none;
+  width: 295px;
+
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 14px;
+
+
+}

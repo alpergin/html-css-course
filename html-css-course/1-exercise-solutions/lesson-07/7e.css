@@ -1,0 +1,16 @@
+.search-2 {
+  border-radius: 18px;
+  font-size: 18px;
+  width: 500px;
+
+
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+
+  border: none;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.387);
+  margin-top: 10px;
+  margin-left: 10px;
+}
